@@ -17,6 +17,7 @@ export default {
 <style lang="css" scoped>
 h3, p{
   font-family: 'Mansalva', cursive;
+  font-size: 2vw;
 }
 img{
   max-width: 10vw;

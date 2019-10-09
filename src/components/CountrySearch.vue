@@ -28,5 +28,6 @@ export default {
 <style lang="css" scoped>
 label, input{
   font-family: 'Mansalva', cursive;
+  font-size: 2vw;
 }
 </style>

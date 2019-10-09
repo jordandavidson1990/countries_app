@@ -21,5 +21,8 @@ export default {
 <style lang="css" scoped>
 li{
   list-style: none;
+  font-size: 2vw;
+  color: beige;
 }
+
 </style>

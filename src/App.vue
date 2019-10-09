@@ -79,7 +79,7 @@ export default {
 
 <style lang="css" scoped>
 .filteredList{
-  width: 25vw;
+  width: 40vw;
   max-height: 20vh;
   overflow-y: scroll;
   border: 1px solid black;
@@ -87,9 +87,11 @@ export default {
 h1{
   text-align: center;
   font-family: 'Mansalva', cursive;
+  font-size: 10vw;
 }
 p, li{
   font-family: 'Mansalva', cursive;
+  font-size: 3vw;
 }
 country-select{
   margin-bottom: 10px;
@@ -122,6 +124,7 @@ country-select{
   text-align: center;
   border: 1px solid;
   margin-top: 1px;
+  min-width: -webkit-fill-available;
 }
 body{
   background: beige;

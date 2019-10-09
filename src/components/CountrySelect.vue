@@ -34,4 +34,7 @@ export default {
 .select{
   margin-bottom: 10px;
 }
+select{
+  font-size: 2vw;
+}
 </style>
